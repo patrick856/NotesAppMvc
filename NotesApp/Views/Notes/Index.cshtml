@@ -1,0 +1,16 @@
+﻿@model List<NotesApp.Models.Note>
+
+<h2>Notes</h2>
+
+<a href="@Url.Action("Create", "Notes")" class="btn btn-primary mb-3">Create New Note</a>
+
+<ul>
+    @foreach (var note in Model)
+{
+    <li>
+        <string>@note.Title</string> - @note.Content
+        <a class="btn btn-warning btn-sm" href="/Notes/Edit/@note.Id">Edit</a>
+        <a href="@Url.Action("Delete", "Notes", new { id = note.Id })" class="btn btn-danger">Delete</a>
+    </li>
+}
+</ul>
