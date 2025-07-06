@@ -38,6 +38,11 @@ Add a new note. Form validation is triggered if fields are left empty.
 
 ![Create Note](assets/screenshots/create-note.png)
 
+### Edit Note
+Edit an existing note.
+![Edit Note](assets/screenshots/edit-note.png)
+![Edit Note](assets/screenshots/note-list-2.png)
+
 ---
 
 ## 🚀 Getting Started
