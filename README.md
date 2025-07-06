@@ -41,7 +41,7 @@ Add a new note. Form validation is triggered if fields are left empty.
 ### Edit Note
 Edit an existing note.
 ![Edit Note](NotesApp/assets/screenshots/edit-note.png)
-![Edit Note](NotesApp/assets/screenshots/note-list-2.png)
+![Edit Note](NotesApp/assets/screenshots/notes-list-2.png)
 
 ---
 
