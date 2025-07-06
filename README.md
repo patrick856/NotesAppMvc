@@ -31,17 +31,17 @@ Built using Razor views, Entity Framework Core, and SQL Server with full CRUD fu
 ### Notes List  
 Displays all saved notes with options to edit or delete.
 
-![Notes List](assets/screenshots/notes-list.png)
+![Notes List](NotesApp/assets/screenshots/notes-list.png)
 
 ### Create Note  
 Add a new note. Form validation is triggered if fields are left empty.
 
-![Create Note](assets/screenshots/create-note.png)
+![Create Note](NotesApp/assets/screenshots/create-note.png)
 
 ### Edit Note
 Edit an existing note.
-![Edit Note](assets/screenshots/edit-note.png)
-![Edit Note](assets/screenshots/note-list-2.png)
+![Edit Note](NotesApp/assets/screenshots/edit-note.png)
+![Edit Note](NotesApp/assets/screenshots/note-list-2.png)
 
 ---
 
